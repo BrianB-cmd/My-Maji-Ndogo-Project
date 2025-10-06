@@ -1,0 +1,2 @@
+# Maji Ndogo Project
+This project aims to analyze the current state of water access in Maji Ndogo, a fictional country, using data collected from a comprehensive survey. The focus of this analysis is to understand the extent of water access challenges faced by residents in Maji Ndogo, identify key factors influencing water access, and propose actionable recommendations for improving the situation.
